@@ -1,0 +1,273 @@
+2026-05-23 17:14:06,699 [Worker-2] INFO [Worker-2] Retry 33853ac3 (#1)
+2026-05-23 17:14:06,699 [Worker-2] INFO [Worker-2] Retry 33853ac3 (#2)
+2026-05-23 17:14:06,699 [Worker-1] WARNING [Worker-1] DLQ 33853ac3
+2026-05-23 17:14:06,758 [Worker-2] INFO [Worker-2] Retry e0c09912 (#1)
+2026-05-23 17:14:06,758 [Worker-1] INFO [Worker-1] Retry e0c09912 (#2)
+2026-05-23 17:14:06,758 [Worker-2] WARNING [Worker-2] DLQ e0c09912
+2026-05-23 17:14:06,778 [Worker-2] INFO [Worker-2] Retry c97a1cdf (#1)
+2026-05-23 17:14:06,778 [Worker-1] INFO [Worker-1] Retry c97a1cdf (#2)
+2026-05-23 17:14:06,778 [Worker-2] WARNING [Worker-2] DLQ c97a1cdf
+2026-05-23 17:14:06,835 [Worker-1] INFO [Worker-1] Retry f3c3e35c (#1)
+2026-05-23 17:14:06,835 [Worker-2] INFO [Worker-2] Retry f3c3e35c (#2)
+2026-05-23 17:14:06,835 [Worker-1] WARNING [Worker-1] DLQ f3c3e35c
+2026-05-23 17:14:06,847 [Worker-2] INFO [Worker-2] Retry 4c00cbc5 (#1)
+2026-05-23 17:14:06,847 [Worker-1] INFO [Worker-1] Retry 4c00cbc5 (#2)
+2026-05-23 17:14:06,847 [Worker-2] WARNING [Worker-2] DLQ 4c00cbc5
+2026-05-23 17:14:06,920 [Worker-1] INFO [Worker-1] Retry e3f62c83 (#1)
+2026-05-23 17:14:06,920 [Worker-2] INFO [Worker-2] Retry e3f62c83 (#2)
+2026-05-23 17:14:06,920 [Worker-1] WARNING [Worker-1] DLQ e3f62c83
+2026-05-23 17:14:06,933 [Worker-2] INFO [Worker-2] Retry 264cb5d5 (#1)
+2026-05-23 17:14:06,933 [Worker-1] INFO [Worker-1] Retry 264cb5d5 (#2)
+2026-05-23 17:14:06,933 [Worker-2] WARNING [Worker-2] DLQ 264cb5d5
+2026-05-23 17:14:06,993 [Worker-2] INFO [Worker-2] Retry 2627ffbf (#1)
+2026-05-23 17:14:06,993 [Worker-1] INFO [Worker-1] Retry 2627ffbf (#2)
+2026-05-23 17:14:06,993 [Worker-2] WARNING [Worker-2] DLQ 2627ffbf
+2026-05-23 17:14:07,030 [Prod-1] INFO [Prod-1] Burst 1/5 terminé (30 msg)
+2026-05-23 17:14:07,049 [Prod-3] INFO [Prod-3] Burst 1/5 terminé (30 msg)
+2026-05-23 17:14:07,055 [Worker-1] INFO [Worker-1] Retry 4de572aa (#1)
+2026-05-23 17:14:07,055 [Worker-2] INFO [Worker-2] Retry 4de572aa (#2)
+2026-05-23 17:14:07,055 [Worker-1] WARNING [Worker-1] DLQ 4de572aa
+2026-05-23 17:14:07,101 [Worker-2] INFO [Worker-2] Retry c404fdaa (#1)
+2026-05-23 17:14:07,101 [Worker-1] INFO [Worker-1] Retry c404fdaa (#2)
+2026-05-23 17:14:07,101 [Worker-2] WARNING [Worker-2] DLQ c404fdaa
+2026-05-23 17:14:07,117 [Prod-2] INFO [Prod-2] Burst 1/5 terminé (30 msg)
+2026-05-23 17:14:07,586 [Worker-1] INFO [Worker-1] Retry 10f86e9d (#1)
+2026-05-23 17:14:07,586 [Worker-2] INFO [Worker-2] Retry 10f86e9d (#2)
+2026-05-23 17:14:07,586 [Worker-1] WARNING [Worker-1] DLQ 10f86e9d
+2026-05-23 17:14:07,681 [Worker-1] INFO [Worker-1] Retry 05a30016 (#1)
+2026-05-23 17:14:07,681 [Worker-2] INFO [Worker-2] Retry 05a30016 (#2)
+2026-05-23 17:14:07,681 [Worker-1] WARNING [Worker-1] DLQ 05a30016
+2026-05-23 17:14:07,694 [Worker-2] INFO [Worker-2] Retry 5243aa20 (#1)
+2026-05-23 17:14:07,694 [Worker-1] INFO [Worker-1] Retry 5243aa20 (#2)
+2026-05-23 17:14:07,694 [Worker-2] WARNING [Worker-2] DLQ 5243aa20
+2026-05-23 17:14:07,723 [Worker-2] INFO [Worker-2] Retry 29ce6007 (#1)
+2026-05-23 17:14:07,723 [Worker-1] INFO [Worker-1] Retry 29ce6007 (#2)
+2026-05-23 17:14:07,723 [Worker-2] WARNING [Worker-2] DLQ 29ce6007
+2026-05-23 17:14:07,811 [Worker-2] INFO [Worker-2] Retry 637be712 (#1)
+2026-05-23 17:14:07,811 [Worker-1] INFO [Worker-1] Retry 637be712 (#2)
+2026-05-23 17:14:07,811 [Worker-2] WARNING [Worker-2] DLQ 637be712
+2026-05-23 17:14:07,811 [Worker-1] INFO [Worker-1] Retry 917b632d (#1)
+2026-05-23 17:14:07,811 [Worker-2] INFO [Worker-2] Retry 917b632d (#2)
+2026-05-23 17:14:07,811 [Worker-1] WARNING [Worker-1] DLQ 917b632d
+2026-05-23 17:14:07,829 [Worker-1] INFO [Worker-1] Retry 30398376 (#1)
+2026-05-23 17:14:07,829 [Worker-2] INFO [Worker-2] Retry 30398376 (#2)
+2026-05-23 17:14:07,829 [Worker-1] WARNING [Worker-1] DLQ 30398376
+2026-05-23 17:14:07,900 [Prod-3] INFO [Prod-3] Burst 2/5 terminé (60 msg)
+2026-05-23 17:14:07,933 [Worker-1] INFO [Worker-1] Retry 55f54625 (#1)
+2026-05-23 17:14:07,933 [Worker-2] INFO [Worker-2] Retry 55f54625 (#2)
+2026-05-23 17:14:07,933 [Worker-1] WARNING [Worker-1] DLQ 55f54625
+2026-05-23 17:14:07,939 [Prod-1] INFO [Prod-1] Burst 2/5 terminé (60 msg)
+2026-05-23 17:14:07,974 [Prod-2] INFO [Prod-2] Burst 2/5 terminé (60 msg)
+2026-05-23 17:14:08,417 [Worker-2] INFO [Worker-2] Retry a0df0aac (#1)
+2026-05-23 17:14:08,417 [Worker-1] INFO [Worker-1] Retry a0df0aac (#2)
+2026-05-23 17:14:08,417 [Worker-2] WARNING [Worker-2] DLQ a0df0aac
+2026-05-23 17:14:08,520 [Worker-1] INFO [Worker-1] Retry dec52b18 (#1)
+2026-05-23 17:14:08,521 [Worker-2] INFO [Worker-2] Retry dec52b18 (#2)
+2026-05-23 17:14:08,521 [Worker-1] WARNING [Worker-1] DLQ dec52b18
+2026-05-23 17:14:08,536 [Worker-1] INFO [Worker-1] Retry cfc1f9e7 (#1)
+2026-05-23 17:14:08,536 [Worker-2] INFO [Worker-2] Retry cfc1f9e7 (#2)
+2026-05-23 17:14:08,536 [Worker-1] WARNING [Worker-1] DLQ cfc1f9e7
+2026-05-23 17:14:08,572 [Worker-2] INFO [Worker-2] Retry b741eed2 (#1)
+2026-05-23 17:14:08,572 [Worker-1] INFO [Worker-1] Retry b741eed2 (#2)
+2026-05-23 17:14:08,572 [Worker-2] WARNING [Worker-2] DLQ b741eed2
+2026-05-23 17:14:08,626 [Worker-1] INFO [Worker-1] Retry c786c31e (#1)
+2026-05-23 17:14:08,626 [Worker-2] INFO [Worker-2] Retry c786c31e (#2)
+2026-05-23 17:14:08,626 [Worker-1] WARNING [Worker-1] DLQ c786c31e
+2026-05-23 17:14:08,663 [Worker-2] INFO [Worker-2] Retry cc4a1761 (#1)
+2026-05-23 17:14:08,663 [Worker-1] INFO [Worker-1] Retry cc4a1761 (#2)
+2026-05-23 17:14:08,663 [Worker-2] WARNING [Worker-2] DLQ cc4a1761
+2026-05-23 17:14:08,666 [Worker-1] INFO [Worker-1] Retry c0fd86e9 (#1)
+2026-05-23 17:14:08,666 [Worker-2] INFO [Worker-2] Retry c0fd86e9 (#2)
+2026-05-23 17:14:08,666 [Worker-1] WARNING [Worker-1] DLQ c0fd86e9
+2026-05-23 17:14:08,670 [Worker-2] INFO [Worker-2] Retry 4d61144d (#1)
+2026-05-23 17:14:08,670 [Worker-1] INFO [Worker-1] Retry 4d61144d (#2)
+2026-05-23 17:14:08,670 [Worker-2] WARNING [Worker-2] DLQ 4d61144d
+2026-05-23 17:14:08,686 [Worker-2] INFO [Worker-2] Retry 3a5533f8 (#1)
+2026-05-23 17:14:08,686 [Worker-1] INFO [Worker-1] Retry 3a5533f8 (#2)
+2026-05-23 17:14:08,686 [Worker-2] WARNING [Worker-2] DLQ 3a5533f8
+2026-05-23 17:14:08,688 [Worker-1] INFO [Worker-1] Retry c6473cfe (#1)
+2026-05-23 17:14:08,688 [Worker-2] INFO [Worker-2] Retry c6473cfe (#2)
+2026-05-23 17:14:08,688 [Worker-1] WARNING [Worker-1] DLQ c6473cfe
+2026-05-23 17:14:08,712 [Worker-1] INFO [Worker-1] Retry 237a1ef9 (#1)
+2026-05-23 17:14:08,712 [Worker-2] INFO [Worker-2] Retry 237a1ef9 (#2)
+2026-05-23 17:14:08,712 [Worker-1] WARNING [Worker-1] DLQ 237a1ef9
+2026-05-23 17:14:08,750 [Worker-1] INFO [Worker-1] Retry 6c84c8ff (#1)
+2026-05-23 17:14:08,750 [Worker-2] INFO [Worker-2] Retry 6c84c8ff (#2)
+2026-05-23 17:14:08,750 [Worker-1] WARNING [Worker-1] DLQ 6c84c8ff
+2026-05-23 17:14:08,806 [Worker-1] INFO [Worker-1] Retry b7db90aa (#1)
+2026-05-23 17:14:08,806 [Worker-2] INFO [Worker-2] Retry b7db90aa (#2)
+2026-05-23 17:14:08,807 [Prod-3] INFO [Prod-3] Burst 3/5 terminé (90 msg)
+2026-05-23 17:14:08,807 [Worker-1] WARNING [Worker-1] DLQ b7db90aa
+2026-05-23 17:14:08,818 [Worker-2] INFO [Worker-2] Retry b2ce6509 (#1)
+2026-05-23 17:14:08,818 [Worker-1] INFO [Worker-1] Retry b2ce6509 (#2)
+2026-05-23 17:14:08,818 [Worker-2] WARNING [Worker-2] DLQ b2ce6509
+2026-05-23 17:14:08,832 [Worker-2] INFO [Worker-2] Retry 0135500c (#1)
+2026-05-23 17:14:08,832 [Worker-1] INFO [Worker-1] Retry 0135500c (#2)
+2026-05-23 17:14:08,832 [Worker-2] WARNING [Worker-2] DLQ 0135500c
+2026-05-23 17:14:08,844 [Prod-1] INFO [Prod-1] Burst 3/5 terminé (90 msg)
+2026-05-23 17:14:08,880 [Prod-2] INFO [Prod-2] Burst 3/5 terminé (90 msg)
+2026-05-23 17:14:09,308 [Worker-2] INFO [Worker-2] Retry b05110b4 (#1)
+2026-05-23 17:14:09,308 [Worker-1] INFO [Worker-1] Retry b05110b4 (#2)
+2026-05-23 17:14:09,308 [Worker-2] WARNING [Worker-2] DLQ b05110b4
+2026-05-23 17:14:09,404 [Worker-1] INFO [Worker-1] Retry b82a99ae (#1)
+2026-05-23 17:14:09,404 [Worker-2] INFO [Worker-2] Retry b82a99ae (#2)
+2026-05-23 17:14:09,404 [Worker-1] WARNING [Worker-1] DLQ b82a99ae
+2026-05-23 17:14:09,422 [Worker-2] INFO [Worker-2] Retry 1f011a1b (#1)
+2026-05-23 17:14:09,422 [Worker-1] INFO [Worker-1] Retry 1f011a1b (#2)
+2026-05-23 17:14:09,422 [Worker-2] WARNING [Worker-2] DLQ 1f011a1b
+2026-05-23 17:14:09,438 [Worker-2] INFO [Worker-2] Retry 9ee43b59 (#1)
+2026-05-23 17:14:09,438 [Worker-1] INFO [Worker-1] Retry 9ee43b59 (#2)
+2026-05-23 17:14:09,438 [Worker-2] WARNING [Worker-2] DLQ 9ee43b59
+2026-05-23 17:14:09,442 [Worker-1] INFO [Worker-1] Retry f0d725d1 (#1)
+2026-05-23 17:14:09,442 [Worker-2] INFO [Worker-2] Retry f0d725d1 (#2)
+2026-05-23 17:14:09,443 [Worker-1] WARNING [Worker-1] DLQ f0d725d1
+2026-05-23 17:14:09,449 [Worker-2] INFO [Worker-2] Retry 624d811f (#1)
+2026-05-23 17:14:09,449 [Worker-1] INFO [Worker-1] Retry 624d811f (#2)
+2026-05-23 17:14:09,449 [Worker-2] WARNING [Worker-2] DLQ 624d811f
+2026-05-23 17:14:09,467 [Worker-1] INFO [Worker-1] Retry 9f7be5ae (#1)
+2026-05-23 17:14:09,467 [Worker-2] INFO [Worker-2] Retry 9f7be5ae (#2)
+2026-05-23 17:14:09,467 [Worker-1] WARNING [Worker-1] DLQ 9f7be5ae
+2026-05-23 17:14:09,543 [Worker-2] INFO [Worker-2] Retry 6a91ed3e (#1)
+2026-05-23 17:14:09,543 [Worker-1] INFO [Worker-1] Retry 6a91ed3e (#2)
+2026-05-23 17:14:09,543 [Worker-2] WARNING [Worker-2] DLQ 6a91ed3e
+2026-05-23 17:14:09,566 [Worker-2] INFO [Worker-2] Retry 12229586 (#1)
+2026-05-23 17:14:09,566 [Worker-1] INFO [Worker-1] Retry 12229586 (#2)
+2026-05-23 17:14:09,566 [Worker-2] WARNING [Worker-2] DLQ 12229586
+2026-05-23 17:14:09,579 [Worker-1] INFO [Worker-1] Retry 863e4b2e (#1)
+2026-05-23 17:14:09,579 [Worker-2] INFO [Worker-2] Retry 863e4b2e (#2)
+2026-05-23 17:14:09,579 [Worker-1] WARNING [Worker-1] DLQ 863e4b2e
+2026-05-23 17:14:09,608 [Worker-1] INFO [Worker-1] Retry 6d5dc3b6 (#1)
+2026-05-23 17:14:09,608 [Worker-2] INFO [Worker-2] Retry 6d5dc3b6 (#2)
+2026-05-23 17:14:09,608 [Worker-1] WARNING [Worker-1] DLQ 6d5dc3b6
+2026-05-23 17:14:09,633 [Worker-2] INFO [Worker-2] Retry acaa6a67 (#1)
+2026-05-23 17:14:09,633 [Worker-1] INFO [Worker-1] Retry acaa6a67 (#2)
+2026-05-23 17:14:09,633 [Worker-2] WARNING [Worker-2] DLQ acaa6a67
+2026-05-23 17:14:09,638 [Worker-1] INFO [Worker-1] Retry ac3cb4c2 (#1)
+2026-05-23 17:14:09,638 [Worker-2] INFO [Worker-2] Retry ac3cb4c2 (#2)
+2026-05-23 17:14:09,638 [Worker-1] WARNING [Worker-1] DLQ ac3cb4c2
+2026-05-23 17:14:09,645 [Worker-1] INFO [Worker-1] Retry 234b93e2 (#1)
+2026-05-23 17:14:09,645 [Worker-2] INFO [Worker-2] Retry 234b93e2 (#2)
+2026-05-23 17:14:09,645 [Worker-1] WARNING [Worker-1] DLQ 234b93e2
+2026-05-23 17:14:09,673 [Worker-2] INFO [Worker-2] Retry e504ef0b (#1)
+2026-05-23 17:14:09,673 [Worker-1] INFO [Worker-1] Retry e504ef0b (#2)
+2026-05-23 17:14:09,673 [Worker-2] WARNING [Worker-2] DLQ e504ef0b
+2026-05-23 17:14:09,684 [Prod-1] INFO [Prod-1] Burst 4/5 terminé (120 msg)
+2026-05-23 17:14:09,691 [Worker-1] INFO [Worker-1] Retry 631af39e (#1)
+2026-05-23 17:14:09,691 [Worker-2] INFO [Worker-2] Retry 631af39e (#2)
+2026-05-23 17:14:09,691 [Worker-1] WARNING [Worker-1] DLQ 631af39e
+2026-05-23 17:14:09,719 [Prod-3] INFO [Prod-3] Burst 4/5 terminé (120 msg)
+2026-05-23 17:14:09,735 [Prod-2] INFO [Prod-2] Burst 4/5 terminé (120 msg)
+2026-05-23 17:14:10,269 [Worker-1] INFO [Worker-1] Retry 518a9326 (#1)
+2026-05-23 17:14:10,269 [Worker-2] INFO [Worker-2] Retry 518a9326 (#2)
+2026-05-23 17:14:10,269 [Worker-1] WARNING [Worker-1] DLQ 518a9326
+2026-05-23 17:14:10,288 [Worker-2] INFO [Worker-2] Retry 5951228d (#1)
+2026-05-23 17:14:10,288 [Worker-1] INFO [Worker-1] Retry 5951228d (#2)
+2026-05-23 17:14:10,288 [Worker-2] WARNING [Worker-2] DLQ 5951228d
+2026-05-23 17:14:10,395 [Worker-1] INFO [Worker-1] Retry d81489d4 (#1)
+2026-05-23 17:14:10,395 [Worker-2] INFO [Worker-2] Retry d81489d4 (#2)
+2026-05-23 17:14:10,395 [Worker-1] WARNING [Worker-1] DLQ d81489d4
+2026-05-23 17:14:10,403 [Worker-1] INFO [Worker-1] Retry 45c4cfe2 (#1)
+2026-05-23 17:14:10,403 [Worker-2] INFO [Worker-2] Retry 45c4cfe2 (#2)
+2026-05-23 17:14:10,404 [Worker-1] WARNING [Worker-1] DLQ 45c4cfe2
+2026-05-23 17:14:10,433 [Worker-1] INFO [Worker-1] Retry 59182561 (#1)
+2026-05-23 17:14:10,433 [Worker-2] INFO [Worker-2] Retry 59182561 (#2)
+2026-05-23 17:14:10,433 [Worker-1] WARNING [Worker-1] DLQ 59182561
+2026-05-23 17:14:10,435 [Worker-1] INFO [Worker-1] Retry 2e9b4c7e (#1)
+2026-05-23 17:14:10,435 [Worker-2] INFO [Worker-2] Retry 2e9b4c7e (#2)
+2026-05-23 17:14:10,435 [Worker-1] WARNING [Worker-1] DLQ 2e9b4c7e
+2026-05-23 17:14:10,459 [Worker-2] INFO [Worker-2] Retry f3a155dd (#1)
+2026-05-23 17:14:10,459 [Worker-1] INFO [Worker-1] Retry f3a155dd (#2)
+2026-05-23 17:14:10,459 [Worker-2] WARNING [Worker-2] DLQ f3a155dd
+2026-05-23 17:14:10,461 [Worker-1] INFO [Worker-1] Retry e3179e44 (#1)
+2026-05-23 17:14:10,461 [Worker-2] INFO [Worker-2] Retry e3179e44 (#2)
+2026-05-23 17:14:10,461 [Worker-1] WARNING [Worker-1] DLQ e3179e44
+2026-05-23 17:14:10,462 [Worker-2] INFO [Worker-2] Retry 731faad0 (#1)
+2026-05-23 17:14:10,462 [Worker-1] INFO [Worker-1] Retry 731faad0 (#2)
+2026-05-23 17:14:10,462 [Worker-2] WARNING [Worker-2] DLQ 731faad0
+2026-05-23 17:14:10,504 [Worker-2] INFO [Worker-2] Retry cd55b0cd (#1)
+2026-05-23 17:14:10,504 [Worker-1] INFO [Worker-1] Retry cd55b0cd (#2)
+2026-05-23 17:14:10,504 [Worker-2] WARNING [Worker-2] DLQ cd55b0cd
+2026-05-23 17:14:10,538 [Worker-2] INFO [Worker-2] Retry 7956f675 (#1)
+2026-05-23 17:14:10,538 [Worker-1] INFO [Worker-1] Retry 7956f675 (#2)
+2026-05-23 17:14:10,538 [Worker-2] WARNING [Worker-2] DLQ 7956f675
+2026-05-23 17:14:10,550 [Worker-2] INFO [Worker-2] Retry bfb31d0a (#1)
+2026-05-23 17:14:10,550 [Worker-1] INFO [Worker-1] Retry bfb31d0a (#2)
+2026-05-23 17:14:10,550 [Worker-2] WARNING [Worker-2] DLQ bfb31d0a
+2026-05-23 17:14:10,550 [Worker-1] INFO [Worker-1] Retry 4961ce8f (#1)
+2026-05-23 17:14:10,550 [Worker-2] INFO [Worker-2] Retry 4961ce8f (#2)
+2026-05-23 17:14:10,550 [Worker-1] WARNING [Worker-1] DLQ 4961ce8f
+2026-05-23 17:14:10,565 [Prod-1] INFO [Prod-1] Burst 5/5 terminé (150 msg)
+2026-05-23 17:14:10,566 [Worker-2] INFO [Worker-2] Retry 3a739f7d (#1)
+2026-05-23 17:14:10,566 [Worker-1] INFO [Worker-1] Retry 3a739f7d (#2)
+2026-05-23 17:14:10,566 [Worker-2] WARNING [Worker-2] DLQ 3a739f7d
+2026-05-23 17:14:10,581 [Prod-2] INFO [Prod-2] Burst 5/5 terminé (150 msg)
+2026-05-23 17:14:10,630 [Prod-3] INFO [Prod-3] Burst 5/5 terminé (150 msg)
+2026-05-23 17:14:11,066 [Prod-1] INFO [Prod-1] Terminé : 150 messages produits
+2026-05-23 17:14:11,082 [Prod-2] INFO [Prod-2] Terminé : 150 messages produits
+2026-05-23 17:14:11,130 [Prod-3] INFO [Prod-3] Terminé : 150 messages produits
+2026-05-23 17:14:11,130 [MainThread] INFO Tous les producteurs ont terminé.
+2026-05-23 17:14:11,130 [MainThread] INFO Queue vidée.
+2026-05-23 17:14:11,621 [MainThread] INFO === RÉSULTAT FINAL ===
+2026-05-23 17:14:11,621 [MainThread] INFO Messages traités avec succès : 387
+2026-05-23 17:14:11,621 [MainThread] INFO Messages échoués (DLQ)       : 63
+2026-05-23 17:14:11,622 [MainThread] INFO Retries effectués             : 126
+2026-05-23 17:14:11,623 [MainThread] INFO Débit moyen                   : 78.5 msg/s
+2026-05-23 17:14:11,623 [MainThread] INFO Latence moyenne               : 0.1 ms
+2026-05-23 17:14:11,623 [MainThread] INFO Dead-letters sauvegardés : 63
+2026-05-23 17:14:11,628 [MainThread] INFO Agrégation par capteur : {
+  "sensor-11": {
+    "count": 48,
+    "mean": 301.03,
+    "min": -16.49,
+    "max": 1943.63
+  },
+  "sensor-31": {
+    "count": 43,
+    "mean": 564.26,
+    "min": -2.22,
+    "max": 1886.39
+  },
+  "sensor-12": {
+    "count": 48,
+    "mean": 393.22,
+    "min": -18.76,
+    "max": 1934.8
+  },
+  "sensor-33": {
+    "count": 43,
+    "mean": 440.2,
+    "min": -8.91,
+    "max": 1995.5
+  },
+  "sensor-13": {
+    "count": 29,
+    "mean": 486.55,
+    "min": -9.52,
+    "max": 1997.43
+  },
+  "sensor-22": {
+    "count": 45,
+    "mean": 363.49,
+    "min": -18.01,
+    "max": 1953.04
+  },
+  "sensor-21": {
+    "count": 40,
+    "mean": 384.82,
+    "min": -17.58,
+    "max": 1946.28
+  },
+  "sensor-23": {
+    "count": 46,
+    "mean": 335.12,
+    "min": -19.57,
+    "max": 1911.26
+  },
+  "sensor-32": {
+    "count": 45,
+    "mean": 199.64,
+    "min": -16.41,
+    "max": 1636.72
+  }
+}
+2026-05-23 17:14:11,629 [MainThread] INFO ✅ Toutes les assertions passent.

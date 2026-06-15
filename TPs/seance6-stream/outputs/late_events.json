@@ -1,0 +1,12 @@
+[
+  {
+    "event_id": "evt-007",
+    "reason": "late-accepted",
+    "lateness_s": 20.0
+  },
+  {
+    "event_id": "evt-009",
+    "reason": "late-accepted",
+    "lateness_s": 35.0
+  }
+]

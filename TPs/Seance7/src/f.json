@@ -1,0 +1,7 @@
+[
+  {"event_id":"e-00001","sensor_id":"sensor-01","site_id":"SITE-01","event_time":"2026-04-20T08:00:00","temperature_c":22.3,"humidity_pct":58.1,"partition_key":"sensor-01"},
+  {"event_id":"e-00002","sensor_id":"sensor-HOT-01","site_id":"SITE-02","event_time":"2026-04-20T08:00:01","temperature_c":21.9,"humidity_pct":62.4,"partition_key":"sensor-HOT-01"},
+  {"event_id":"e-00003","sensor_id":"sensor-02","site_id":"SITE-01","event_time":"2026-04-20T08:00:02","temperature_c":23.0,"humidity_pct":55.0,"partition_key":"sensor-02"},
+  {"event_id":"e-00004","sensor_id":"sensor-HOT-01","site_id":"SITE-02","event_time":"2026-04-20T08:00:03","temperature_c":22.1,"humidity_pct":62.0,"partition_key":"sensor-HOT-01"},
+  {"event_id":"e-00005","sensor_id":"sensor-03","site_id":"SITE-03","event_time":"2026-04-20T08:00:04","temperature_c":24.5,"humidity_pct":51.2,"partition_key":"sensor-03"}
+]

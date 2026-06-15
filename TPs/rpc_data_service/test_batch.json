@@ -1,0 +1,27 @@
+[
+  {
+    "sensor_id": "TEMP_PARC_01",
+    "ts": "2026-05-23T14:30:00",
+    "value": 23.5
+  },
+  {
+    "sensor_id": "HUM_PARC_02",
+    "ts": "2026-05-23T14:31:00",
+    "value": 62.8
+  },
+  {
+    "sensor_id": "TEMP_PARC_01",
+    "ts": "2026-05-23T14:32:00",
+    "value": -999.0
+  },
+  {
+    "sensor_id": "   ",
+    "ts": "2026-05-23T14:33:00",
+    "value": 12.4
+  },
+  {
+    "sensor_id": "WIND_PARC_01",
+    "ts": "2026-05-23T14:34:00",
+    "value": "erreur_string"
+  }
+]

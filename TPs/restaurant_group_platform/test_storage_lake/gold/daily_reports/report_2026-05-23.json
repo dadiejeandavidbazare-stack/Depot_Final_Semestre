@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2026-05-23",
+        "restaurant_id": "REST-PARIS-15-A",
+        "city": "Paris",
+        "daily_revenue": 135.0,
+        "total_orders": 3
+    },
+    {
+        "date": "2026-05-23",
+        "restaurant_id": "REST-LYON-02-B",
+        "city": "Lyon",
+        "daily_revenue": 22.5,
+        "total_orders": 1
+    }
+]
